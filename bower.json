@@ -1,0 +1,18 @@
+{
+  "name": "jsmediatags-sebastianha",
+  "version": "3.0.5",
+  "authors": [
+    "António Afonso",
+    "Sebastian Hammerl, Getslash GmbH"
+  ],
+  "description": "Media Tags Reader (ID3, MP4)",
+  "main": "dist/jsmediatags.js",
+  "keywords": [
+    "ID3",
+    "tags",
+    "mp3",
+    "audio",
+    "mp4"
+  ],
+  "license": "BSD-3-Clause"
+}
